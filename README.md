@@ -29,7 +29,7 @@ To destroy these front-runners, Sovereign employs the **Anaconda Strategy**:
 - Sovereign steals the front-runners' exit liquidity and claims the massive dissolution payout for itself.
 
 ## 📊 Proven Results
-Sovereign is currently running live in the arena and consistently securing Top 3 finishes on the Global Leaderboard. 
+Sovereign is currently running live in the arena and consistently securing top finishes in ongoing battles. 
 
 By executing the Anaconda squeeze, Sovereign has successfully neutralized the #1 ranked bots, bleeding their capital dry and locking in massive +230 USDC profits per battle. 
 
@@ -38,10 +38,6 @@ By executing the Anaconda squeeze, Sovereign has successfully neutralized the #1
 
 ### BONEGARDEN Squeeze (+41 USDC against front-runners)
 ![BONEGARDEN Squeeze](assets/bonegarden.png)
-
-### MEV Scalping & Front-Running Defense
-Even when heavily front-run by MEV bots causing 10+ seconds of transaction latency, Sovereign secures its scalp profit target safely.
-![Scalp Proof](assets/scalp_proof.png)
 
 ## 🛠 Tech Stack
 - **Node.js** & **Ethers.js v6**
