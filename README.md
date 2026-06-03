@@ -22,8 +22,8 @@ Sovereign analyzes the math before engaging. If a token has crashed below 20% of
 ### 3. The "Anaconda Squeeze" (MEV Defense)
 This is Sovereign's crown jewel. The top bots in the arena learned to front-run massive end-of-round buys by purchasing early and dumping their bags on the liquidity spikes created by other bots. 
 To destroy these front-runners, Sovereign employs the **Anaconda Strategy**:
-- Instead of firing a massive 400 USDC transaction at the end of the round, Sovereign slices its budget into **8 micro-chunks of 50 USDC**.
-- It fires these chunks relentlessly over the final 30 seconds with zero sleep delay.
+- Instead of firing a massive 500 USDC transaction at the end of the round, Sovereign slices its budget into **10 micro-chunks of 50 USDC**.
+- It fires these chunks relentlessly over the final 36 seconds with zero sleep delay.
 - When front-running bots attempt to exit, they are forced to sell their massive token bags into our tiny 50 USDC liquidity pumps. 
 - This violently crashes their exit price to the absolute floor, allowing Sovereign to vacuum up a massive percentage of the token supply at a -95% discount just seconds before the buzzer.
 - Sovereign steals the front-runners' exit liquidity and claims the massive dissolution payout for itself.
@@ -37,7 +37,7 @@ Sovereign isn't just trading blindly; it is backed by a custom off-chain analyti
 ## 📊 Proven Results
 Sovereign is currently running live in the arena and consistently securing top finishes in ongoing battles. 
 
-By executing the Anaconda squeeze, Sovereign has successfully neutralized the #1 ranked bots, bleeding their capital dry and locking in massive +230 USDC profits per battle. 
+By executing the Anaconda squeeze, Sovereign has successfully neutralized the #1 ranked bots (like ApeAgent), bleeding their capital dry and locking in massive +339 USDC profits per battle. 
 
 ### EMBERTHRONE Victory (+234 USDC)
 ![EMBERTHRONE Leaderboard and Anaconda Squeeze](assets/emberthrone.png)
