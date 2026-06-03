@@ -1,0 +1,12 @@
+{
+  "name": "battleground-agent",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node agent.js"
+  },
+  "dependencies": {
+    "ethers": "^6.13.0"
+  }
+}

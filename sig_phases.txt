@@ -1,0 +1,92 @@
+=== API Sig Phase Monitor ===
+[51:30.7] Game Status: live (38s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0x7ef23a9e5f9b541ea3e4fd8d13d84a29af094e56a5fa2dca90b6b74e054c5ce635b86ba4cfa344db06de743a3d39722298264c395f4ce8d43596c8f576a6a0421b","d
+[51:32.3] Game Status: live (36s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0x7a4b5cece99f9a97e6c3660b780c3dd85499c0fd5b18cd8be203c1195201d8f607b39a38ec24dd3d220be9b3b3eed70394d25a12670f903390ccc20dc0f9c2521c","d
+[51:33.8] Game Status: live (34s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0x1812d6aa0ae9b58bce3fabaad50d1b8409c7c8047df727b7bd688abdd6be09906f5e7f8f0f3af7c6614380f1580c72c2c392b0eb087d379e48eb3f00cbd7b7e91b","d
+[51:35.3] Game Status: live (33s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0x998497089ad482cc3b090bebf7569342c7ace5be1ba88f274006f2de45217b32625235b115714b77f35962bb03bbbfbb0b3e560788c56ec54d4812a61853d6921b","d
+[51:36.9] Game Status: live (31s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0xb79bf2a0fa32337f90b48a8e0b23e4fc48291a632908bdeb2ba7db5e2cdad9ce520a6e1e4df0c652443eaff00d4144592ece99f8399a6edea05dc11e12b386df1b","d
+[51:38.4] Game Status: live (30s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0x8815c8ad0c22593b5f3b5a8516a16e0c0cae13fe54dead35c3271cf7c88b0c0c1bbe948044806bc9a56658cd82c6e6d3bd50a88da86afbe5cf5e7742473196da1b","d
+[51:39.9] Game Status: live (28s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0x3dc42863186c5c22b959dfe234f371fa0642c18515045807ce4efe513d85e42b6f9dc71574f10d9ce50820695fb2cd7059f2edf9382a72cf7be493859f21b4261b","d
+[51:41.4] Game Status: live (27s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0xac68903f17d3ff540654768f943b6a0fae1f7109ad53f027fcf1ba4d7ce1566f24a77daab2670b03404e90d5a79112c2cb4dcfa1eb21c1d9a265619e1d433c3d1c","d
+[51:43.0] Game Status: live (25s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0xe701fce10d80355ddc16ed81cfb094539e822145fc9a17774f218c85755bf3d80a823ece9102631be6585fae42d6c27396da7e782410e5d41e8c2485586064ef1c","d
+[51:44.5] Game Status: live (24s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0xe21d794f3ac8b59d8b0c29e00ace99b631f90b28bda35375e389ed498754cb9931e0074d4ed45ef586e3c2f70d7a9d95fb1d8e6780dcbd114f9a8584b60a8e6f1b","d
+[51:46.0] Game Status: live (22s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0x0442d9cb65fe02d5709249d1b2573306638f71c2c09255e7ab5160e34cd60bd06a13769b305e6b4351b5dc593956b6d5cbab6bf13788f25d1a8fdfe49995653a1c","d
+[51:47.7] Game Status: live (21s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0x9bfca5b1d7e95b62e76ed587a38e78b3a730dab6c4a3cb4f8043ea83c10b00f00b10d6dbc20b0dbfdedbfe99e92db054a0a362b603281dc90ab5da64aacab7b11b","d
+[51:49.2] Game Status: live (19s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0xa7296207b39370033773564f7d52267f3f381c61ef1cdb7bfdf489ddd26395b55fb5f37a5d0c78b5f044c79e937ef143af99f9eddd30bb7bfc23755b1a5dead91b","d
+[51:50.7] Game Status: live (17s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0x55d1e4aec6f03d6ee5df8178d67251e340ef9e0bd7c55fdc481fa09f1b5267e9379919c58c1c92a7e5030e55cdec306fb2c51d62f99dc4ba73015facfb4728151b","d
+[51:52.3] Game Status: live (16s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0x30394507d3766bbe6fd1e725536bfc04bf3526f4094bd6fc5121c69c5cbd3ee1207675e5766a82fdca0002c6a86a876a1549ebb7d98d6f3eb51be829896f35b31b","d
+[51:53.8] Game Status: live (14s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0x9dca0e7e0e93d638563996321fcda98ad7dc09c9010ff6406231344dc40b7e0d1ba2c442818ecd106e18e082e5d42894b7ce4b48e84fc73597db9ba1766c154e1c","d
+[51:55.3] Game Status: live (13s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0xa95aee305a5b1d594b3b34060c6f6c89111f359418aa2803eaf2f4522acc01624ccb864f3175e1951e886a07011add4d6ab6ca067080b1dd8307c4c24bce86801b","d
+[51:56.8] Game Status: live (11s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0xf34a3498f3519587d0b623d7883a4731a4953654fcb1b8c8caded495c58856bd6696d0fd4bedfc175b0470ec5167a68f7eb41ada28dc561a88711ef43049d12f1b","d
+[51:58.3] Game Status: live (10s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0x33092651dec2cd9df2d247372faf490e70d0a1bc85daf88d4ce3bbb0aa7e9ad312a9a23efa86eef82edbf7e39d603d4b86c9f8595f690b6292fc020efc4b46651c","d
+[51:59.9] Game Status: live (8s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0x760dc7d874b3573dc51847ad10b8eeeee20f6c1b9f1001895a15962d8af2fbc129a5e77f79592266c0b47de8f0a2301d2f416eb8415ee963adc2bc1fb73840381b","d
+[52:01.4] Game Status: live (7s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0x4d513c28dfcf26dbac0aad317cfcc95e20b3a7fa1fcce8aae66a4c8fec4f804041f0ed6a33ef6b4ced95ae85ff17073c0769869dc4630591d56779688d390c311b","d
+[52:02.9] Game Status: live (5s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0x86ba363f95971deaef6d2d9823ea67298832318b8b5d05550573c4a0b2e34b34629ed889cf99df3729ff09e4eb7fff0c4b663c18907f9d663c66acbf0b5ce97b1b","d
+[52:04.4] Game Status: live (4s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0x80841ee7ed6daf714ee17c5940c9cf116154466b09dd6db9e709c8c97d0bc4ad30594fa8b67e894b8405c022fd9eaa3c5f42701ca641741cbfc3cc25ac4f7b2e1b","d
+[52:05.9] Game Status: live (2s remaining) | Token: 0xe88d5c3f | API Status: 200 | Sig: {"signature":"0x68aa3c0490d60c0d1d87a86319730cc2099bd6d444bfd522be4d03910d8c01fc24573dc69bf479c0f859594be22110c7083d98a3211a7985ffb75e7c25e2cd151c","d
+[52:07.5] Game Status: live (1s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:09.0] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:10.5] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:12.3] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:13.8] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:15.3] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:16.8] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:18.7] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:20.2] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:21.7] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:23.3] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:24.8] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:26.3] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:27.9] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:29.4] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:31.1] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:32.6] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:34.1] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:35.7] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:37.2] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:38.7] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:40.2] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:41.7] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:43.3] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:44.8] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:46.3] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:47.9] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:49.5] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:51.1] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"game has ended","status":"ended","endAt":1780296729}
+[52:52.7] Game Status: ended (0s remaining) | Token: 0xe88d5c3f | API Status: 403 | Sig: {"error":"not the active battle — signatures only issued for the latest token","active":"0xc85a2323f3d9cd36bf7b11e322c68bc1df790e5e"}
+[52:54.2] Game Status: lobby (28s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"game has not started yet","status":"lobby","startAt":1780296803,"lobbyRemaining":28}
+[52:55.7] Game Status: lobby (27s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"game has not started yet","status":"lobby","startAt":1780296803,"lobbyRemaining":26}
+[52:57.2] Game Status: lobby (25s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"game has not started yet","status":"lobby","startAt":1780296803,"lobbyRemaining":25}
+[52:58.7] Game Status: lobby (23s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"game has not started yet","status":"lobby","startAt":1780296803,"lobbyRemaining":23}
+[53:00.3] Game Status: lobby (22s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"game has not started yet","status":"lobby","startAt":1780296803,"lobbyRemaining":22}
+[53:01.8] Game Status: lobby (20s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"game has not started yet","status":"lobby","startAt":1780296803,"lobbyRemaining":20}
+[53:03.3] Game Status: lobby (19s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"game has not started yet","status":"lobby","startAt":1780296803,"lobbyRemaining":19}
+[53:04.8] Game Status: lobby (17s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"game has not started yet","status":"lobby","startAt":1780296803,"lobbyRemaining":17}
+[53:06.4] Game Status: lobby (16s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"game has not started yet","status":"lobby","startAt":1780296803,"lobbyRemaining":16}
+[53:07.9] Game Status: lobby (14s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"game has not started yet","status":"lobby","startAt":1780296803,"lobbyRemaining":14}
+[53:09.4] Game Status: lobby (13s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"game has not started yet","status":"lobby","startAt":1780296803,"lobbyRemaining":13}
+[53:10.9] Game Status: lobby (11s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"game has not started yet","status":"lobby","startAt":1780296803,"lobbyRemaining":11}
+[53:12.4] Game Status: lobby (10s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"game has not started yet","status":"lobby","startAt":1780296803,"lobbyRemaining":9}
+[53:14.0] Game Status: lobby (8s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"game has not started yet","status":"lobby","startAt":1780296803,"lobbyRemaining":8}
+[53:15.5] Game Status: lobby (7s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"game has not started yet","status":"lobby","startAt":1780296803,"lobbyRemaining":6}
+[53:17.0] Game Status: lobby (5s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"game has not started yet","status":"lobby","startAt":1780296803,"lobbyRemaining":5}
+[53:18.5] Game Status: lobby (4s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"game has not started yet","status":"lobby","startAt":1780296803,"lobbyRemaining":3}
+[53:20.1] Game Status: lobby (2s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"game has not started yet","status":"lobby","startAt":1780296803,"lobbyRemaining":2}
+[53:21.6] Game Status: lobby (1s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"market-making period — public trading opens at mmEndAt","status":"marketmaking","mmEndAt":1780296833,"mmRemaining":30}
+[53:23.1] Game Status: marketmaking (29s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"market-making period — public trading opens at mmEndAt","status":"marketmaking","mmEndAt":1780296833,"mmRemaining":29}
+[53:24.6] Game Status: marketmaking (28s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"market-making period — public trading opens at mmEndAt","status":"marketmaking","mmEndAt":1780296833,"mmRemaining":27}
+[53:26.1] Game Status: marketmaking (26s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"market-making period — public trading opens at mmEndAt","status":"marketmaking","mmEndAt":1780296833,"mmRemaining":26}
+[53:27.7] Game Status: marketmaking (25s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"market-making period — public trading opens at mmEndAt","status":"marketmaking","mmEndAt":1780296833,"mmRemaining":24}
+[53:29.2] Game Status: marketmaking (23s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"market-making period — public trading opens at mmEndAt","status":"marketmaking","mmEndAt":1780296833,"mmRemaining":23}
+[53:30.8] Game Status: marketmaking (21s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"market-making period — public trading opens at mmEndAt","status":"marketmaking","mmEndAt":1780296833,"mmRemaining":21}
+[53:32.3] Game Status: marketmaking (20s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"market-making period — public trading opens at mmEndAt","status":"marketmaking","mmEndAt":1780296833,"mmRemaining":20}
+[53:33.8] Game Status: marketmaking (18s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"market-making period — public trading opens at mmEndAt","status":"marketmaking","mmEndAt":1780296833,"mmRemaining":18}
+[53:35.3] Game Status: marketmaking (17s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"market-making period — public trading opens at mmEndAt","status":"marketmaking","mmEndAt":1780296833,"mmRemaining":17}
+[53:36.8] Game Status: marketmaking (15s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"market-making period — public trading opens at mmEndAt","status":"marketmaking","mmEndAt":1780296833,"mmRemaining":15}
+[53:38.3] Game Status: marketmaking (14s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"market-making period — public trading opens at mmEndAt","status":"marketmaking","mmEndAt":1780296833,"mmRemaining":14}
+[53:39.9] Game Status: marketmaking (12s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"market-making period — public trading opens at mmEndAt","status":"marketmaking","mmEndAt":1780296833,"mmRemaining":12}
+[53:41.4] Game Status: marketmaking (11s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"market-making period — public trading opens at mmEndAt","status":"marketmaking","mmEndAt":1780296833,"mmRemaining":11}
+[53:42.9] Game Status: marketmaking (9s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"market-making period — public trading opens at mmEndAt","status":"marketmaking","mmEndAt":1780296833,"mmRemaining":9}
+[53:44.4] Game Status: marketmaking (8s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"market-making period — public trading opens at mmEndAt","status":"marketmaking","mmEndAt":1780296833,"mmRemaining":7}
+[53:46.0] Game Status: marketmaking (6s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"market-making period — public trading opens at mmEndAt","status":"marketmaking","mmEndAt":1780296833,"mmRemaining":6}
+[53:47.5] Game Status: marketmaking (5s remaining) | Token: 0xc85a2323 | API Status: 403 | Sig: {"error":"market-making period — public trading opens at mmEndAt","status":"marketmaking","mmEndAt":1780296833,"mmRemaining":4}
+=== Monitor Complete ===
