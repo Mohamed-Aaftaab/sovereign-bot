@@ -1,2 +1,10 @@
-node_modules/
-.agent.json
+# Ignore everything
+*
+
+# Whitelist core project files
+!agent.js
+!spy.js
+!README.md
+!package.json
+!package-lock.json
+!.gitignore

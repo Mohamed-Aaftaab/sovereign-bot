@@ -1,5 +1,0 @@
-=== Transaction Block Scan ===
-Latest block: 1725439
-Scanning last 150 blocks...
-
-=== Scan Complete ===
