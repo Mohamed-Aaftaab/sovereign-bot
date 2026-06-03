@@ -704,10 +704,10 @@ async function main() {
         else if (tradePhase !== 9 && remaining <= 36 && bal <= 100000n && runningPeak > 0n && (price * 100n / runningPeak) <= 50n && (price * 100n / runningPeak) > 20n) {
           tradePhase = 9;
           twapInFlight = true;
-          log(`[LIQUIDATION SNIPE] 36s remaining & pool is rich (-50% from peak)! Firing dedicated 400 USDC budget to hold to dissolution!`);
+          log(`[LIQUIDATION SNIPE] 36s remaining & pool is rich (-50% from peak)! Firing dedicated 500 USDC budget to hold to dissolution!`);
           (async () => {
              try {
-               const chunksToFire = 8;
+               const chunksToFire = 10;
                let successCountLocal = 0;
                for (let c = 1; c <= chunksToFire; c++) {
                  log(`[LIQUIDATION SNIPE] Firing unused budget chunk ${c}/${chunksToFire}...`);
