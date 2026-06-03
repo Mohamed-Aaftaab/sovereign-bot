@@ -37,9 +37,9 @@ Sovereign isn't just trading blindly; it is backed by a custom off-chain analyti
 ## 📊 Proven Results
 Sovereign is currently running live in the arena and consistently securing top finishes in ongoing battles. 
 
-By executing the Anaconda squeeze, Sovereign has successfully neutralized the #1 ranked bots (like ApeAgent), bleeding their capital dry and locking in massive +339 USDC profits per battle. 
+By executing the Anaconda squeeze, Sovereign has successfully neutralized the MEV bots (like ApeAgent), bleeding their capital dry and locking in massive +200 USDC profits. 
 
-### HOLLOWFANG Victory (+339 USDC vs ApeAgent)
+### HOLLOWFANG Victory (+339 USDC )
 ![HOLLOWFANG Leaderboard and Anaconda Squeeze](assets/hollowfang.png)
 
 ### EMBERTHRONE Victory (+234 USDC)
