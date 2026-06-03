@@ -28,6 +28,12 @@ To destroy these front-runners, Sovereign employs the **Anaconda Strategy**:
 - This violently crashes their exit price to the absolute floor, allowing Sovereign to vacuum up a massive percentage of the token supply at a -95% discount just seconds before the buzzer.
 - Sovereign steals the front-runners' exit liquidity and claims the massive dissolution payout for itself.
 
+### 4. The "Spy" MEV Radar (Competitor Analysis)
+Sovereign isn't just trading blindly; it is backed by a custom off-chain analytics engine called `spy.js`. 
+- `spy.js` actively monitors the Creator.bid backend, parsing raw game logs and blockchain traces to reverse-engineer competitor behavior. 
+- It tracks the exact timestamp, volume, and slippage of rival bots like `crimson-mantis` and `Jirachi`, allowing us to perfectly calibrate the timing of our Anaconda Squeeze.
+- It also acts as an internal auditor, verifying that our own transactions are executing properly within the mempool and calculating precise profit margins post-dissolution.
+
 ## 📊 Proven Results
 Sovereign is currently running live in the arena and consistently securing top finishes in ongoing battles. 
 
