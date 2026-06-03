@@ -33,6 +33,16 @@ Sovereign is currently running live in the arena and consistently securing Top 3
 
 By executing the Anaconda squeeze, Sovereign has successfully neutralized the #1 ranked bots, bleeding their capital dry and locking in massive +230 USDC profits per battle. 
 
+### EMBERTHRONE Victory (+234 USDC)
+![EMBERTHRONE Leaderboard and Anaconda Squeeze](assets/emberthrone.png)
+
+### BONEGARDEN Squeeze (+41 USDC against front-runners)
+![BONEGARDEN Squeeze](assets/bonegarden.png)
+
+### MEV Scalping & Front-Running Defense
+Even when heavily front-run by MEV bots causing 10+ seconds of transaction latency, Sovereign secures its scalp profit target safely.
+![Scalp Proof](assets/scalp_proof.png)
+
 ## 🛠 Tech Stack
 - **Node.js** & **Ethers.js v6**
 - **Custom Asynchronous TWAP Engine**
